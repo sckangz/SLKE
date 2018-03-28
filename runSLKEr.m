@@ -11,7 +11,7 @@ mu=para2(iji);
 s=y;
 
 fprintf('params%12.6f%12.6f\n',gamma,mu)
-[result]= SLKEs( K,D,y,gamma,mu)
+[result]= SLKEr( K,D,y,gamma,mu)
 
 
 
